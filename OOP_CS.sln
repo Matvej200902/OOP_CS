@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_CS", "OOP_CS\OOP_CS.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{59174A35-7F1E-4B94-92CC-3A94BF1E6B28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\inheritance.csproj", "{8DD9AD6C-1089-440A-9A2A-3BEB61635C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{59174A35-7F1E-4B94-92CC-3A94BF1E6B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59174A35-7F1E-4B94-92CC-3A94BF1E6B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59174A35-7F1E-4B94-92CC-3A94BF1E6B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD9AD6C-1089-440A-9A2A-3BEB61635C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD9AD6C-1089-440A-9A2A-3BEB61635C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD9AD6C-1089-440A-9A2A-3BEB61635C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD9AD6C-1089-440A-9A2A-3BEB61635C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
